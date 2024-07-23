@@ -1,15 +1,18 @@
 {
-  "name": "Asterisk Store",
-  "icon": "https://github.com/manic-tech/Asterisk/blob/main/logo.png",
-  "apps": [
+  "META": {
+    "repoName": "Asterisk Store",
+    "repoIcon": "https://github.com/manic-tech/Asterisk/blob/main/logo.png"
+  },
+  "Apps": [
     {
       "name": "BHTwitter",
-      "bundleIdentifier": "com.asterisk.bhtwitter",
       "version": "10.43",
-      "developer": "zxcvbn",
+      "down": "https://download.starfiles.co/tit3a7fb9pjr",
+      "category": "Social Media",
       "description": "This is an example application.",
-      "icon": "https://download.starfiles.co/kyz2cg830he8",
-      "downloadUrl": "https://download.starfiles.co/tit3a7fb9pjr"
+      "bundleID": "com.asterisk.bhtwitter",
+      "developer": "zxcvbn",
+      "icon": "https://download.starfiles.co/kyz2cg830he8"
     }
   ]
 }
