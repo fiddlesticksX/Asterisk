@@ -8,57 +8,6 @@
 		"version": "10.43",
 		"down": "https://github.com/qnblackcat/uYouPlus/releases/download/v18.01.6-2.3.1/uYouPlus_18.01.6_2.3.1.ipa",
 		"description": "Twitter, but tweaked ",
-        "iconURL": "https://download.starfiles.co/kyz2cg830he8"
-	}, {
-		"name": "iPogo",
-		"version": "0.261.1",
-		"down": "https://download.starfiles.co/tit3a7fb9pjr",
-		"category": "Tweaked Apps",
-		"description": "With iPogo you get a full set of tools to help you be the best. iPogo is a Simple, Powerful and Intuitive App.",
-		"bundleID": "com.nianticlabs.pokemongo",
-		"appstore": "com.nianticlabs.pokemongo"
-	}, {
-		"name": "SpooferX",
-		"version": "0.261.1",
-		"down": "https://www.spooferx.app/ipa/SpooferPro-0.261.1-0.129.ipa",
-		"category": "Tweaked Apps",
-		"changelog": "- Added Support for Latest version\n- Fixed Scarlet install error",
-		"description": "SpooferX for Pokémon GO is an enhanced edition of the Pokémon GO app, adding a joystick and with free teleport ! It also include a lot of others features : IV checking, enhanced throw, auto walking and GPX, fast catch trick, a live feed and even a map with everything around you !",
-		"bundleID": "com.nianticlabs.pokemongo",
-		"appstore": "com.nianticlabs.pokemongo"
-	}, {
-		"name": "Sposify++",
-		"version": "8.6.42",
-		"down": "https://resources.usescarlet.com/repo/IPAs/Spotify.ipa",
-		"category": "Tweaked Apps",
-		"description": "Sposify and Spotilife tweak merged into one app",
-		"bundleID": "com.spotify.client",
-		"appstore": "com.spotify.client",
-		"debs": [
-			"https://usescarlet.com/debs/Spotilife.dylib",
-			"https://usescarlet.com/debs/Sposify.dylib",
-			"https://usescarlet.com/debs/SposifyFix.dylib"
-		],
-		"changelog": "- Updated Spotilife to v1.8"
-	}, {
-		"name": "Instagram Rhino",
-		"version": "187.0",
-		"icon": "https://iosninja.io/img/ipas/instagram_rhino.png",
-		"down": "https://resources.usescarlet.com/repo/IPAs/instagramRhino.ipa",
-		"category": "Tweaked Apps",
-		"bundleID": "com.rhino.InstagramApp",
-		"appstore": "com.burbn.instagram"
-	}, {
-		"name": "VideoStar",
-		"version": "8.3.2",
-		"icon": "https://usescarlet.com/icons/videostar.png",
-		"down": "https://resources.usescarlet.com/repo/IPAs/videostar.ipa",
-		"category": "Tweaked Apps",
-		"debs": [
-			"https://usescarlet.com/debs/videostar.dylib"
-		],
-		"bundleID": "com.frontierdesign.videostar",
-		"appstore": "com.frontierdesign.videostar"
-	}]
-
+	}
+	]
     }
