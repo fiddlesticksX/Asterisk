@@ -1,13 +1,16 @@
 {
-	"META": {
-		"repoName": "Asterisk Store",
-		"repoIcon": "https://github.com/manic-tech/Asterisk/blob/main/logo.png"
-	},
-	"Apps": [{
-		"name": "BHTwitter",
-		"version": "10.43",
-		"downloadURL": "https://github.com/qnblackcat/uYouPlus/releases/download/v18.01.6-2.3.1/uYouPlus_18.01.6_2.3.1.ipa",
-		"description": "Twitter, but tweaked"
-	}
-	]
-    }
+		"name": "Asterisk Store",
+		"icon": "https://github.com/manic-tech/Asterisk/blob/main/logo.png",
+		"apps": [
+		  {
+			"name": "BHTwitter",
+			"bundleIdentifier": "com.asterisk.bhtwitter",
+			"version": "10.43",
+			"developer": "zxcvbn",
+			"description": "This is an example application.",
+			"icon": "https://download.starfiles.co/kyz2cg830he8",
+			"downloadUrl": "https://download.starfiles.co/tit3a7fb9pjr"
+		  }
+		]
+	  }
+	  
