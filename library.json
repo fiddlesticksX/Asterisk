@@ -1,16 +1,15 @@
 {
-		"name": "Asterisk Store",
-		"icon": "https://github.com/manic-tech/Asterisk/blob/main/logo.png",
-		"apps": [
-		  {
-			"name": "BHTwitter",
-			"bundleIdentifier": "com.asterisk.bhtwitter",
-			"version": "10.43",
-			"developer": "zxcvbn",
-			"description": "This is an example application.",
-			"icon": "https://download.starfiles.co/kyz2cg830he8",
-			"downloadUrl": "https://download.starfiles.co/tit3a7fb9pjr"
-		  }
-		]
-	  }
-	  
+  "name": "Asterisk Store",
+  "icon": "https://github.com/manic-tech/Asterisk/blob/main/logo.png",
+  "apps": [
+    {
+      "name": "BHTwitter",
+      "bundleIdentifier": "com.asterisk.bhtwitter",
+      "version": "10.43",
+      "developer": "zxcvbn",
+      "description": "This is an example application.",
+      "icon": "https://download.starfiles.co/kyz2cg830he8",
+      "downloadUrl": "https://download.starfiles.co/tit3a7fb9pjr"
+    }
+  ]
+}
